@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\Loading\Loading\bin\Debug\Loading.exe.config
+C:\MSstudy\MSStudy\Loading\Loading\bin\Debug\Loading.exe
+C:\MSstudy\MSStudy\Loading\Loading\bin\Debug\Loading.pdb
+C:\MSstudy\MSStudy\Loading\Loading\obj\Debug\Loading.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\Loading\Loading\obj\Debug\Loading.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\Loading\Loading\obj\Debug\Loading.exe
+C:\MSstudy\MSStudy\Loading\Loading\obj\Debug\Loading.pdb
