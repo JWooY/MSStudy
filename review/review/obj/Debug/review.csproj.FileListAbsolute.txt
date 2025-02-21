@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\review\review\bin\Debug\review.exe.config
+C:\MSstudy\MSStudy\review\review\bin\Debug\review.exe
+C:\MSstudy\MSStudy\review\review\bin\Debug\review.pdb
+C:\MSstudy\MSStudy\review\review\obj\Debug\review.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\review\review\obj\Debug\review.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\review\review\obj\Debug\review.exe
+C:\MSstudy\MSStudy\review\review\obj\Debug\review.pdb

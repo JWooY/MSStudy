@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MSstudy\\MSStudy\\review\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28391606-EB5D-450B-8C40-AB5593D06B1D}|review\\review.csproj|c:\\msstudy\\msstudy\\review\\review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28391606-EB5D-450B-8C40-AB5593D06B1D}|review\\review.csproj|solutionrelative:review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\review\\review\\Program.cs",
+              "RelativeDocumentMoniker": "review\\Program.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\review\\review\\Program.cs",
+              "RelativeToolTip": "review\\Program.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAYwB0BAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:03:33.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
