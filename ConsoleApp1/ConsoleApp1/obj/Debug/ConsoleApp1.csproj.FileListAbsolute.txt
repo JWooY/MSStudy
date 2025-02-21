@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\MSstudy\MSStudy\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\MSstudy\MSStudy\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\MSstudy\MSStudy\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\MSstudy\MSStudy\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
