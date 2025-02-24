@@ -9,139 +9,149 @@ namespace review
 {
     class Program
     {
+
+        // 한 글자씩 출력하는 메서드
+        static void PrintCharacterByCharacter(string message)
+        {
+            foreach (char c in message)
+            {
+                Console.Write(c);  // 글자 출력
+                Thread.Sleep(50); // 100ms 딜레이 (필요에 따라 조정 가능)
+            }
+            Console.WriteLine(); // 한 문장이 끝나면 줄바꿈
+        }
         static void Main(string[] args)
         {
             //로딩바 시작화면
             //게임 스토리1
-            //비주얼노벨만들어보기
 
-            Console.Write("새로운 시작 중입니다. 조금만 기다려주세요!");
+            Console.WriteLine("새로운 시작 중입니다. 조금만 기다려주세요!");
             Console.Write("□□□□□");
             Thread.Sleep(2000);
             Console.Clear();
 
-            Console.Write("새로운 시작 중입니다. 조금만 기다려주세요!");
+            Console.WriteLine("새로운 시작 중입니다. 조금만 기다려주세요!");
             Console.Write("■□□□□");
             Thread.Sleep(2000);
             Console.Clear();
 
-            Console.Write("새로운 시작 중입니다. 조금만 기다려주세요!");
+            Console.WriteLine("새로운 시작 중입니다. 조금만 기다려주세요!");
             Console.Write("■■□□□");
             Thread.Sleep(2000);
             Console.Clear();
 
-            Console.Write("새로운 시작 중입니다. 조금만 기다려주세요!");
+            Console.WriteLine("새로운 시작 중입니다. 조금만 기다려주세요!");
             Console.Write("■■■□□");
             Thread.Sleep(2000);
             Console.Clear();
 
-
-            Console.Write("새로운 시작 중입니다. 조금만 기다려주세요!");
+            Console.WriteLine("새로운 시작 중입니다. 조금만 기다려주세요!");
             Console.Write("■■■■□");
             Thread.Sleep(2000);
             Console.Clear();
 
-            Console.Write("새로운 시작 중입니다. 조금만 기다려주세요!");
+            Console.WriteLine("새로운 시작 중입니다. 조금만 기다려주세요!");
             Console.Write("■■■■■");
             Thread.Sleep(2000);
             Console.Clear();
 
-            Console.WriteLine("엔터키를 눌러 남자를 꺠우세요!");
+            Program.PrintCharacterByCharacter("엔터키를 눌러 남자를 깨우세요!");
             Console.ReadLine();
             Console.Clear();
 
-            Console.WriteLine("눈을 떴다. 머리가 지끈거린다.");
+            Program.PrintCharacterByCharacter("눈을 떴다. 머리가 지끈거린다.");
             Console.ReadLine();
             Console.Clear();
 
-            Console.Write("\"윽 머리야... 여긴 어디지?\"");
+            Program.PrintCharacterByCharacter("\"윽 머리야... 여긴 어디지?\"");
             Console.ReadLine();
             Console.Clear();
 
-            Console.WriteLine("주위를 둘러보니 창문하나 없는 삭막한 방이 보인다.");
+            Program.PrintCharacterByCharacter("주위를 둘러보니 창문하나 없는 삭막한 방이 보인다.");
             Console.ReadLine();
             Console.Clear();
 
-            Console.WriteLine("\"있는거라곤 책상이랑... 문?\"");
+            Program.PrintCharacterByCharacter("\"있는거라곤 책상이랑... 문?\"");
             Console.ReadLine();
             Console.Clear();
 
-            Console.Write("한쪽 벽을 바라보니 중앙에 낡은 나무 문이 보인다.");
+            Program.PrintCharacterByCharacter("한쪽 벽을 바라보니 중앙에 낡은 나무 문이 보인다.");
             Console.ReadLine();
             Console.Clear();
 
-            Console.Write("\"대체 이게.. 윽!\"");
+            Program.PrintCharacterByCharacter("\"대체 이게.. 윽!\"");
             Console.ReadLine();
             Console.Clear();
 
-            Console.WriteLine("갑자기 머리가 쪼개질 듯 아파온다.");
+            Program.PrintCharacterByCharacter("갑자기 머리가 쪼개질 듯 아파온다.");
             Console.ReadLine();
             Console.Clear();
 
-            Console.Write("\"아아악!\"");
+            Program.PrintCharacterByCharacter("\"아아악!\"");
             Console.ReadLine();
             Console.Clear();
 
-            Console.Write("영원할 것만 같았던 통증이 점차 잦아들며 머릿속에서 목소리가 울려퍼졌다.");
+            Program.PrintCharacterByCharacter("영원할 것만 같았던 통증이 점차 잦아들며 머릿속에서 목소리가 울려퍼졌다.");
             Console.ReadLine();
 
-            Console.Write("기억이 초기화되었습니다. 남은 시간 24:00:00");
-            Console.ReadLine();
-            Console.Clear();
-
-            Console.Write("\"이게 무슨...\"");
+            Program.PrintCharacterByCharacter("기억이 초기화되었습니다. 남은 시간 24:00:00");
             Console.ReadLine();
             Console.Clear();
 
-
-            Console.Write("혼란스러움을 추스릴 새도 없이, 문 쪽에서 인기척이 들려온다.");
+            Program.PrintCharacterByCharacter("\"이게 무슨...\"");
             Console.ReadLine();
             Console.Clear();
 
-            Console.Write("똑똑");
+
+            Program.PrintCharacterByCharacter("혼란스러움을 추스릴 새도 없이, 문 쪽에서 인기척이 들려온다.");
             Console.ReadLine();
             Console.Clear();
 
-            Console.WriteLine("문을 여시겠습니까?");
-            Console.WriteLine("1. 문을 연다. / 2. 무시한다.");
+            Program.PrintCharacterByCharacter("똑똑");
+            Console.ReadLine();
+            Console.Clear();
+
+            Program.PrintCharacterByCharacter("문을 여시겠습니까?");
+            Console.ReadLine();
+            Program.PrintCharacterByCharacter("1. 문을 연다. / 2. 무시한다.");
 
             string choice = Console.ReadLine();
             Console.Clear();
 
             if (choice == "1")
             {
-                Console.WriteLine("혼란과 두려움을 간신히 진정시킨 뒤, 냉정히 생각해보았다.");
+                Program.PrintCharacterByCharacter("혼란과 두려움을 간신히 진정시킨 뒤, 냉정히 생각해보았다.");
                 Console.ReadLine();
                 Console.Clear();
-                Console.WriteLine("\"무섭지만... 일단 뭐든 해야해 모든게 의문 투성이야\"");
+                Program.PrintCharacterByCharacter("\"무섭지만... 일단 뭐든 해야해 모든게 의문 투성이야\"");
                 Console.ReadLine();
                 Console.Clear();
-                Console.WriteLine("영원히 여기 있을 수는 없는 노릇이다.");
+                Program.PrintCharacterByCharacter("영원히 여기 있을 수는 없는 노릇이다.");
                 Console.ReadLine();
-                Console.WriteLine("치솟는 두려움을 가라앉히고 문을 열었다");
+                Program.PrintCharacterByCharacter("치솟는 두려움을 가라앉히고 문을 열었다");
                 Console.ReadLine();
 
             }
             else if (choice == "2")
             {
-                Console.WriteLine("모든것이 두렵다. 저 존재가 누구든, 나를 해칠지도 모르지 않는가?");
+                Program.PrintCharacterByCharacter("모든것이 두렵다. 저 존재가 누구든, 나를 해칠지도 모르지 않는가?");
                 Console.ReadLine();
                 Console.Clear();
-                Console.WriteLine("\"...그래 괜히 위험을 감수 할 필요는 없지.\"");
+                Program.PrintCharacterByCharacter("\"...그래 괜히 위험을 감수 할 필요는 없지.\"");
                 Console.ReadLine();
-                Console.WriteLine("\"조금만... 조금만 더 생각해보자\"");
+                Program.PrintCharacterByCharacter("\"조금만... 조금만 더 생각해보자\"");
                 Console.ReadLine();
                 Console.Clear();
-                Console.WriteLine("그렇게 영원한 24시간이 반복되었다.");
+                Program.PrintCharacterByCharacter("그렇게 영원한 24시간이 반복되었다.");
                 Console.ReadLine();
-                Console.WriteLine("Bad End");
+                Program.PrintCharacterByCharacter("Bad End");
                 Console.ReadLine();
                 Environment.Exit(0);
 
             }
             else
             {
-                Console.WriteLine("잘못된 선택입니다. 1 또는 2를 입력해주세요.");
+                Program.PrintCharacterByCharacter("잘못된 선택입니다. 1 또는 2를 입력해주세요.");
             }
 
             Console.WriteLine("그 앞엔 어떤 작은 키의 여자가 놀란 표정으로 서있었다.");
