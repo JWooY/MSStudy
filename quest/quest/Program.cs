@@ -67,7 +67,8 @@ namespace quest
             //문제 3 : 간단한 사칙연산 계산기
             Console.WriteLine(">>>>>>>>문제3<<<<<<<<");
 
-            double sum, sub, mul, div  = 0;
+            double sum, sub, mul, div = 0;
+            bool valid = true;
 
 
             Console.Write("숫자 1 : ");
@@ -108,9 +109,9 @@ namespace quest
             }
 
             else
+            { 
                 Console.WriteLine("연산자 입력이 잘못되었습니다.");
-
-
+            }
             
         }
     }
