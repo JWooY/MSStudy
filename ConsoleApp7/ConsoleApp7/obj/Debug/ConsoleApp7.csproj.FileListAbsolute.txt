@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\MSstudy\MSStudy\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\MSstudy\MSStudy\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\MSstudy\MSStudy\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\MSstudy\MSStudy\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

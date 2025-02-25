@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\quest\quest\bin\Debug\quest.exe.config
+C:\MSstudy\MSStudy\quest\quest\bin\Debug\quest.exe
+C:\MSstudy\MSStudy\quest\quest\bin\Debug\quest.pdb
+C:\MSstudy\MSStudy\quest\quest\obj\Debug\quest.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\quest\quest\obj\Debug\quest.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\quest\quest\obj\Debug\quest.exe
+C:\MSstudy\MSStudy\quest\quest\obj\Debug\quest.pdb
