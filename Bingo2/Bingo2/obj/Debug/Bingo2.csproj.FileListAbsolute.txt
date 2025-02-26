@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\Bingo2\Bingo2\bin\Debug\Bingo2.exe.config
+C:\MSstudy\MSStudy\Bingo2\Bingo2\bin\Debug\Bingo2.exe
+C:\MSstudy\MSStudy\Bingo2\Bingo2\bin\Debug\Bingo2.pdb
+C:\MSstudy\MSStudy\Bingo2\Bingo2\obj\Debug\Bingo2.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\Bingo2\Bingo2\obj\Debug\Bingo2.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\Bingo2\Bingo2\obj\Debug\Bingo2.exe
+C:\MSstudy\MSStudy\Bingo2\Bingo2\obj\Debug\Bingo2.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MSstudy\\MSStudy\\Bingo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4C9C-D57A-4181-8FBE-059E2C39AB1D}|Bingo2\\Bingo2.csproj|c:\\msstudy\\msstudy\\bingo2\\bingo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AC4C9C-D57A-4181-8FBE-059E2C39AB1D}|Bingo2\\Bingo2.csproj|solutionrelative:bingo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\Bingo2\\Bingo2\\Program.cs",
+              "RelativeDocumentMoniker": "Bingo2\\Program.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\Bingo2\\Bingo2\\Program.cs",
+              "RelativeToolTip": "Bingo2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:06:44.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

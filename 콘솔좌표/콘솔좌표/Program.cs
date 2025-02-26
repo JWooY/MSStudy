@@ -434,7 +434,7 @@ namespace 콘솔좌표
                         {
                             Console.WriteLine("▶ 몸에 좋은 약초를 발견했다! ");
                             Thread.Sleep(800);
-                            Console.WriteLine("▶ 누가 가져가기 전에 얼른 입에 넣었다. ");
+                            Console.WriteLine("▶ 약초는 역시 갓 채집 했을 때 먹어야지 ");
                             Thread.Sleep(800);
                             Console.WriteLine("▶ ...");
                             Thread.Sleep(800);
@@ -454,7 +454,7 @@ namespace 콘솔좌표
                         {
                             Console.WriteLine("▶ 몸에 좋은 약초를 발견했다! ");
                             Thread.Sleep(800);
-                            Console.WriteLine("▶ 누가 가져가기 전에 얼른 입에 넣었다. ");
+                            Console.WriteLine("▶ 약초는 역시 갓 채집 했을 때 먹어야지 ");
                             Thread.Sleep(800); 
                             Console.WriteLine("▶ ...");
                             Thread.Sleep(800);
@@ -1080,8 +1080,8 @@ namespace 콘솔좌표
                             Thread.Sleep(1000);
                             break;
                         }
-                        Console.WriteLine("휴식을 취합니다... ( + 20 체력 / 마나 ) ");
-                        gold -= 100;
+                        Console.WriteLine("휴식을 취합니다... ( + 30 체력 / 마나 ) ");
+                        gold -= 200;
                         Console.WriteLine($"현재 골드 {gold} ");
                         health += 20;
                         if (health > maxHealth)
