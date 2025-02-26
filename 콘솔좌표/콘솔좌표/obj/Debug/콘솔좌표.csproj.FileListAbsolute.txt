@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\콘솔좌표\콘솔좌표\bin\Debug\콘솔좌표.exe.config
+C:\MSstudy\MSStudy\콘솔좌표\콘솔좌표\bin\Debug\콘솔좌표.exe
+C:\MSstudy\MSStudy\콘솔좌표\콘솔좌표\bin\Debug\콘솔좌표.pdb
+C:\MSstudy\MSStudy\콘솔좌표\콘솔좌표\obj\Debug\콘솔좌표.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\콘솔좌표\콘솔좌표\obj\Debug\콘솔좌표.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\콘솔좌표\콘솔좌표\obj\Debug\콘솔좌표.exe
+C:\MSstudy\MSStudy\콘솔좌표\콘솔좌표\obj\Debug\콘솔좌표.pdb
