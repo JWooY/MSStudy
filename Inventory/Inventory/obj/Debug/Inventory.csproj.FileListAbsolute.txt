@@ -1,7 +1,0 @@
-C:\MSstudy\MSStudy\Inventory\Inventory\bin\Debug\Inventory.exe.config
-C:\MSstudy\MSStudy\Inventory\Inventory\bin\Debug\Inventory.exe
-C:\MSstudy\MSStudy\Inventory\Inventory\bin\Debug\Inventory.pdb
-C:\MSstudy\MSStudy\Inventory\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
-C:\MSstudy\MSStudy\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
-C:\MSstudy\MSStudy\Inventory\Inventory\obj\Debug\Inventory.exe
-C:\MSstudy\MSStudy\Inventory\Inventory\obj\Debug\Inventory.pdb

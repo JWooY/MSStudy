@@ -1,7 +1,0 @@
-C:\MSstudy\MSStudy\quest_2_20250227\quest_2_20250227\bin\Debug\quest_2_20250227.exe.config
-C:\MSstudy\MSStudy\quest_2_20250227\quest_2_20250227\bin\Debug\quest_2_20250227.exe
-C:\MSstudy\MSStudy\quest_2_20250227\quest_2_20250227\bin\Debug\quest_2_20250227.pdb
-C:\MSstudy\MSStudy\quest_2_20250227\quest_2_20250227\obj\Debug\quest_2_20250227.csproj.AssemblyReference.cache
-C:\MSstudy\MSStudy\quest_2_20250227\quest_2_20250227\obj\Debug\quest_2_20250227.csproj.CoreCompileInputs.cache
-C:\MSstudy\MSStudy\quest_2_20250227\quest_2_20250227\obj\Debug\quest_2_20250227.exe
-C:\MSstudy\MSStudy\quest_2_20250227\quest_2_20250227\obj\Debug\quest_2_20250227.pdb

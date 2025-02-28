@@ -1,7 +1,0 @@
-C:\MSstudy\MSStudy\ShootingGame1\ShootingGame1\bin\Debug\ShootingGame1.exe.config
-C:\MSstudy\MSStudy\ShootingGame1\ShootingGame1\bin\Debug\ShootingGame1.exe
-C:\MSstudy\MSStudy\ShootingGame1\ShootingGame1\bin\Debug\ShootingGame1.pdb
-C:\MSstudy\MSStudy\ShootingGame1\ShootingGame1\obj\Debug\ShootingGame1.csproj.AssemblyReference.cache
-C:\MSstudy\MSStudy\ShootingGame1\ShootingGame1\obj\Debug\ShootingGame1.csproj.CoreCompileInputs.cache
-C:\MSstudy\MSStudy\ShootingGame1\ShootingGame1\obj\Debug\ShootingGame1.exe
-C:\MSstudy\MSStudy\ShootingGame1\ShootingGame1\obj\Debug\ShootingGame1.pdb

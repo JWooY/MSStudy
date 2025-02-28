@@ -1,7 +1,0 @@
-C:\MSstudy\MSStudy\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.AssemblyReference.cache
-C:\MSstudy\MSStudy\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
-C:\MSstudy\MSStudy\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
-C:\MSstudy\MSStudy\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
-C:\MSstudy\MSStudy\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
-C:\MSstudy\MSStudy\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
-C:\MSstudy\MSStudy\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
