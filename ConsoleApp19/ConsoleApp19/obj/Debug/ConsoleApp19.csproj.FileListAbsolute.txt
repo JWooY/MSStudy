@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe.config
+C:\MSstudy\MSStudy\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe
+C:\MSstudy\MSStudy\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.pdb
+C:\MSstudy\MSStudy\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.exe
+C:\MSstudy\MSStudy\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.pdb
