@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\0304_Plus\0304_Plus\bin\Debug\0304_Plus.exe.config
+C:\MSstudy\MSStudy\0304_Plus\0304_Plus\bin\Debug\0304_Plus.exe
+C:\MSstudy\MSStudy\0304_Plus\0304_Plus\bin\Debug\0304_Plus.pdb
+C:\MSstudy\MSStudy\0304_Plus\0304_Plus\obj\Debug\0304_Plus.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\0304_Plus\0304_Plus\obj\Debug\0304_Plus.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\0304_Plus\0304_Plus\obj\Debug\0304_Plus.exe
+C:\MSstudy\MSStudy\0304_Plus\0304_Plus\obj\Debug\0304_Plus.pdb

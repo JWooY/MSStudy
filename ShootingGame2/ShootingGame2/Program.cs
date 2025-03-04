@@ -26,6 +26,9 @@ namespace ShootingGame2
         public BULLET[] playerBullet = new BULLET[20];
         public BULLET[] playerBullet2 = new BULLET[20];
         public BULLET[] playerBullet3 = new BULLET[20];
+        public BULLET[] playerBullet4 = new BULLET[20];
+        public BULLET[] playerBullet5 = new BULLET[20];
+        public BULLET[] playerBullet6 = new BULLET[20];
 
         public int Score = 100;
         public Item item = new Item();
@@ -53,8 +56,23 @@ namespace ShootingGame2
                 playerBullet3[i].x = 0;
                 playerBullet3[i].y = 0;
                 playerBullet3[i].fire = false;
-            }
 
+                playerBullet4[i] = new BULLET(); // 총알 배열 받아오고 초기화
+                playerBullet4[i].x = 0;
+                playerBullet4[i].y = 0;
+                playerBullet4[i].fire = false;
+
+                playerBullet5[i] = new BULLET(); // 총알 배열 받아오고 초기화
+                playerBullet5[i].x = 0;
+                playerBullet5[i].y = 0;
+                playerBullet5[i].fire = false;
+
+                playerBullet6[i] = new BULLET(); // 총알 배열 받아오고 초기화
+                playerBullet6[i].x = 0;
+                playerBullet6[i].y = 0;
+                playerBullet6[i].fire = false;
+
+            }
         }
 
         public void GameMain()
@@ -112,47 +130,97 @@ namespace ShootingGame2
                         break;
                     case 32: //스페이스바
                         //총알 발사
-                        for (int i = 0; i < 20; i++)
+                        if (itemCount < 3)
                         {
-                            //미사일이 false 발사 가능
-                            if (playerBullet[i].fire == false)
+                            for (int i = 0; i < 20; i++)
                             {
-                                playerBullet[i].fire = true;
-                                //플레이어 앞에서 미사일 쏘기 + 5
-                                playerBullet[i].x = playerX + 5;
-                                playerBullet[i].y = playerY + 1;
-                                //한발씩 쏘겠다는 뜻.
-                                break;
+                                //미사일이 false 발사 가능
+                                if (playerBullet[i].fire == false)
+                                {
+                                    playerBullet[i].fire = true;
+                                    //플레이어 앞에서 미사일 쏘기 + 5
+                                    playerBullet[i].x = playerX + 5;
+                                    playerBullet[i].y = playerY + 1;
+                                    //한발씩 쏘겠다는 뜻.
+                                    break;
+                                }
+                            }
+
+                            //총알2 발사
+                            for (int i = 0; i < 20; i++)
+                            {
+                                //미사일이 false 발사 가능
+                                if (playerBullet2[i].fire == false)
+                                {
+                                    playerBullet2[i].fire = true;
+                                    //플레이어 앞에서 미사일 쏘기 + 5
+                                    playerBullet2[i].x = playerX + 5;
+                                    playerBullet2[i].y = playerY;
+                                    //한발씩 쏘겠다는 뜻.
+                                    break;
+                                }
+                            }
+
+                            //총알3 발사
+                            for (int i = 0; i < 20; i++)
+                            {
+                                //미사일이 false 발사 가능
+                                if (playerBullet3[i].fire == false)
+                                {
+                                    playerBullet3[i].fire = true;
+                                    //플레이어 앞에서 미사일 쏘기 + 5
+                                    playerBullet3[i].x = playerX + 5;
+                                    playerBullet3[i].y = playerY + 2;
+                                    //한발씩 쏘겠다는 뜻.
+                                    break;
+                                }
                             }
                         }
-
-                        //총알2 발사
-                        for (int i = 0; i < 20; i++)
+                        else
                         {
-                            //미사일이 false 발사 가능
-                            if (playerBullet2[i].fire == false)
+                            //총알4 발사
+                            for (int i = 0; i < 20; i++)
                             {
-                                playerBullet2[i].fire = true;
-                                //플레이어 앞에서 미사일 쏘기 + 5
-                                playerBullet2[i].x = playerX + 5;
-                                playerBullet2[i].y = playerY;
-                                //한발씩 쏘겠다는 뜻.
-                                break;
+                                //미사일이 false 발사 가능
+                                if (playerBullet4[i].fire == false)
+                                {
+                                    playerBullet4[i].fire = true;
+                                    //플레이어 앞에서 미사일 쏘기 + 5
+                                    playerBullet4[i].x = playerX + 5;
+                                    playerBullet4[i].y = playerY + 2;
+                                    //한발씩 쏘겠다는 뜻.
+                                    break;
+                                }
                             }
-                        }
 
-                        //총알3 발사
-                        for (int i = 0; i < 20; i++)
-                        {
-                            //미사일이 false 발사 가능
-                            if (playerBullet3[i].fire == false)
+                            //총알5 발사
+                            for (int i = 0; i < 20; i++)
                             {
-                                playerBullet3[i].fire = true;
-                                //플레이어 앞에서 미사일 쏘기 + 5
-                                playerBullet3[i].x = playerX + 5;
-                                playerBullet3[i].y = playerY + 2;
-                                //한발씩 쏘겠다는 뜻.
-                                break;
+                                //미사일이 false 발사 가능
+                                if (playerBullet5[i].fire == false)
+                                {
+                                    playerBullet5[i].fire = true;
+                                    //플레이어 앞에서 미사일 쏘기 + 5
+                                    playerBullet5[i].x = playerX + 5;
+                                    playerBullet5[i].y = playerY + 2;
+                                    //한발씩 쏘겠다는 뜻.
+                                    break;
+                                }
+                            }
+
+                            //총알6 발사
+                            for (int i = 0; i < 20; i++)
+                            {
+                                //미사일이 false 발사 가능
+                                if (playerBullet6[i].fire == false)
+                                {
+                                    playerBullet6[i].fire = true;
+                                    //플레이어 앞에서 미사일 쏘기 + 5
+                                    playerBullet6[i].x = playerX + 5;
+                                    playerBullet6[i].y = playerY + 2;
+                                    //한발씩 쏘겠다는 뜻.
+                                    break;
+                                }
                             }
                         }
                         break;
@@ -227,6 +295,86 @@ namespace ShootingGame2
                     if (playerBullet3[i].x > 78)
                     {
                         playerBullet3[i].fire = false; // 미사일 false. 다시 준비 상태로 돌리기
+                    }
+                }
+            }
+        }
+
+        public void BulletDraw4()
+        {
+            string bullet = "--\\"; // 미사일 모습
+            string bullet2 = "--/"; // 미사일 모습
+
+            for (int i = 0; i < 20; i++)
+            {
+                if (playerBullet4[i].fire == true)
+                {
+                    //좌표 설정 -> 중간위치를 위해 보정을 위해 x-1
+                    Console.SetCursorPosition(playerBullet4[i].x - 1, playerBullet4[i].y);
+                    //총알 출력
+                    Console.Write(bullet);
+
+                    Console.SetCursorPosition(playerBullet4[i].x - 1, playerBullet4[i].y+1);
+                    //총알 출력
+                    Console.Write(bullet2);
+
+                    playerBullet4[i].x++; // 미사일 한칸씩 오른쪽으로 날리기
+
+                    if (playerBullet4[i].x > 78)
+                    {
+                        playerBullet4[i].fire = false; // 미사일 false. 다시 준비 상태로 돌리기
+                    }
+                }
+            }
+        }
+
+        public void BulletDraw5()
+        {
+            string bullet = "--\\"; // 미사일 모습
+            string bullet2 = "--/"; // 미사일 모습
+
+            for (int i = 0; i < 20; i++)
+            {
+                if (playerBullet5[i].fire == true)
+                {
+                    //좌표 설정 -> 중간위치를 위해 보정을 위해 x-1
+                    Console.SetCursorPosition(playerBullet5[i].x - 1, playerBullet5[i].y);
+                    //총알 출력
+                    Console.Write(bullet);
+
+                    Console.SetCursorPosition(playerBullet5[i].x - 1, playerBullet5[i].y);
+                    //총알 출력
+                    Console.Write(bullet);
+
+                    playerBullet5[i].x++; // 미사일 한칸씩 오른쪽으로 날리기
+
+                    if (playerBullet5[i].x > 78)
+                    {
+                        playerBullet5[i].fire = false; // 미사일 false. 다시 준비 상태로 돌리기
+                    }
+                }
+            }
+        }
+
+        public void BulletDraw6()
+        {
+            string bullet = "--\\";
+            string bullet2 = "--/"; 
+
+            for (int i = 0; i < 20; i++)
+            {
+                if (playerBullet6[i].fire == true)
+                {
+                    //좌표 설정 -> 중간위치를 위해 보정을 위해 x-1
+                    Console.SetCursorPosition(playerBullet6[i].x - 1, playerBullet6[i].y);
+                    //총알 출력
+                    Console.Write(bullet);
+
+                    playerBullet6[i].x++; // 미사일 한칸씩 오른쪽으로 날리기
+
+                    if (playerBullet6[i].x > 78)
+                    {
+                        playerBullet6[i].fire = false; // 미사일 false. 다시 준비 상태로 돌리기
                     }
                 }
             }
@@ -361,22 +509,45 @@ namespace ShootingGame2
                     if (itemCount < 3)
                         itemCount++;
 
-                    for(int i=0; i<20; i++) // 총알 초기화
+                    if (itemCount <= 3)
                     {
-                        playerBullet[i] = new BULLET(); // 총알 배열 받아오고 초기화
-                        playerBullet[i].x = 0;
-                        playerBullet[i].y = 0;
-                        playerBullet[i].fire = false;
+                        for (int i = 0; i < 20; i++) // 총알 초기화
+                        {
+                            playerBullet[i] = new BULLET(); // 총알 배열 받아오고 초기화
+                            playerBullet[i].x = 0;
+                            playerBullet[i].y = 0;
+                            playerBullet[i].fire = false;
 
-                        playerBullet2[i] = new BULLET(); // 총알 배열 받아오고 초기화
-                        playerBullet2[i].x = 0;
-                        playerBullet2[i].y = 0;
-                        playerBullet2[i].fire = false;
+                            playerBullet2[i] = new BULLET(); // 총알 배열 받아오고 초기화
+                            playerBullet2[i].x = 0;
+                            playerBullet2[i].y = 0;
+                            playerBullet2[i].fire = false;
 
-                        playerBullet3[i] = new BULLET(); // 총알 배열 받아오고 초기화
-                        playerBullet3[i].x = 0;
-                        playerBullet3[i].y = 0;
-                        playerBullet3[i].fire = false;
+                            playerBullet3[i] = new BULLET(); // 총알 배열 받아오고 초기화
+                            playerBullet3[i].x = 0;
+                            playerBullet3[i].y = 0;
+                            playerBullet3[i].fire = false;
+                        }
+                    }
+                    else if (itemCount > 3)
+                    {
+                        for (int i = 0; i < 20; i++) // 총알 초기화
+                        {
+                            playerBullet4[i] = new BULLET(); // 총알 배열 받아오고 초기화
+                            playerBullet4[i].x = 0;
+                            playerBullet4[i].y = 0;
+                            playerBullet4[i].fire = false;
+
+                            playerBullet5[i] = new BULLET(); // 총알 배열 받아오고 초기화
+                            playerBullet5[i].x = 0;
+                            playerBullet5[i].y = 0;
+                            playerBullet5[i].fire = false;
+
+                            playerBullet6[i] = new BULLET(); // 총알 배열 받아오고 초기화
+                            playerBullet6[i].x = 0;
+                            playerBullet6[i].y = 0;
+                            playerBullet6[i].fire = false;
+                        }
                     }
                 }
             }
@@ -486,13 +657,30 @@ namespace ShootingGame2
                         player.BulletDraw2();
                         
                     }
+                    else if(player.itemCount == 2)
+                    {
+                        player.BulletDraw();
+                        player.BulletDraw2();
+                        player.BulletDraw3();
+                    }
+                    else if (player.itemCount == 3)
+                    {
+                        player.BulletDraw();
+                        player.BulletDraw2();
+                        player.BulletDraw3();
+                    }
+                    else if (player.itemCount == 4)
+                    {
+                        player.BulletDraw();
+                        player.BulletDraw2();
+                        player.BulletDraw3();
+                    }
                     else
                     {
                         player.BulletDraw();
                         player.BulletDraw2();
                         player.BulletDraw3();
                     }
-
 
                     //적 이동
                     enemy.EnemyMove(); 
