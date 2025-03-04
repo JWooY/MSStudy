@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\quest20250228\quest20250228\bin\Debug\quest20250228.exe.config
+C:\MSstudy\MSStudy\quest20250228\quest20250228\bin\Debug\quest20250228.exe
+C:\MSstudy\MSStudy\quest20250228\quest20250228\bin\Debug\quest20250228.pdb
+C:\MSstudy\MSStudy\quest20250228\quest20250228\obj\Debug\quest20250228.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\quest20250228\quest20250228\obj\Debug\quest20250228.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\quest20250228\quest20250228\obj\Debug\quest20250228.exe
+C:\MSstudy\MSStudy\quest20250228\quest20250228\obj\Debug\quest20250228.pdb

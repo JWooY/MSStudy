@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MSstudy\\MSStudy\\quest20250228\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC142A64-79A8-472B-A5B4-32918346CB5F}|quest20250228\\quest20250228.csproj|c:\\msstudy\\msstudy\\quest20250228\\quest20250228\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC142A64-79A8-472B-A5B4-32918346CB5F}|quest20250228\\quest20250228.csproj|solutionrelative:quest20250228\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\quest20250228\\quest20250228\\Program.cs",
+              "RelativeDocumentMoniker": "quest20250228\\Program.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\quest20250228\\quest20250228\\Program.cs",
+              "RelativeToolTip": "quest20250228\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:27:12.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

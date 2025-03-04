@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\ShootingGame2\ShootingGame2\bin\Debug\ShootingGame2.exe.config
+C:\MSstudy\MSStudy\ShootingGame2\ShootingGame2\bin\Debug\ShootingGame2.exe
+C:\MSstudy\MSStudy\ShootingGame2\ShootingGame2\bin\Debug\ShootingGame2.pdb
+C:\MSstudy\MSStudy\ShootingGame2\ShootingGame2\obj\Debug\ShootingGame2.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\ShootingGame2\ShootingGame2\obj\Debug\ShootingGame2.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\ShootingGame2\ShootingGame2\obj\Debug\ShootingGame2.exe
+C:\MSstudy\MSStudy\ShootingGame2\ShootingGame2\obj\Debug\ShootingGame2.pdb
