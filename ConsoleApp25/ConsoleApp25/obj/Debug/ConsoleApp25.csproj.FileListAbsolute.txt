@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe.config
+C:\MSstudy\MSStudy\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe
+C:\MSstudy\MSStudy\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.pdb
+C:\MSstudy\MSStudy\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.exe
+C:\MSstudy\MSStudy\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.pdb
