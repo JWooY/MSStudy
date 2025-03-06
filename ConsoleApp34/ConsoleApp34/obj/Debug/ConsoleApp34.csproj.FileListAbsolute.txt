@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.exe.config
+C:\MSstudy\MSStudy\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.exe
+C:\MSstudy\MSStudy\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.pdb
+C:\MSstudy\MSStudy\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.exe
+C:\MSstudy\MSStudy\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.pdb

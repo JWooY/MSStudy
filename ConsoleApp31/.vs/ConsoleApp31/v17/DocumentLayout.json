@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MSstudy\\MSStudy\\ConsoleApp31\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F49DA656-584A-4A4B-A0BD-D90BB36AE13E}|ConsoleApp31\\ConsoleApp31.csproj|c:\\msstudy\\msstudy\\consoleapp31\\consoleapp31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49DA656-584A-4A4B-A0BD-D90BB36AE13E}|ConsoleApp31\\ConsoleApp31.csproj|solutionrelative:consoleapp31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\ConsoleApp31\\ConsoleApp31\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp31\\Program.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\ConsoleApp31\\ConsoleApp31\\Program.cs",
+              "RelativeToolTip": "ConsoleApp31\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:39:36.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
