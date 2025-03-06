@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\PlusStudy0306\PlusStudy0306\bin\Debug\PlusStudy0306.exe.config
+C:\MSstudy\MSStudy\PlusStudy0306\PlusStudy0306\bin\Debug\PlusStudy0306.exe
+C:\MSstudy\MSStudy\PlusStudy0306\PlusStudy0306\bin\Debug\PlusStudy0306.pdb
+C:\MSstudy\MSStudy\PlusStudy0306\PlusStudy0306\obj\Debug\PlusStudy0306.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\PlusStudy0306\PlusStudy0306\obj\Debug\PlusStudy0306.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\PlusStudy0306\PlusStudy0306\obj\Debug\PlusStudy0306.exe
+C:\MSstudy\MSStudy\PlusStudy0306\PlusStudy0306\obj\Debug\PlusStudy0306.pdb

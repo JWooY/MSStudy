@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\ConsoleApp43\ConsoleApp43\bin\Debug\ConsoleApp43.exe.config
+C:\MSstudy\MSStudy\ConsoleApp43\ConsoleApp43\bin\Debug\ConsoleApp43.exe
+C:\MSstudy\MSStudy\ConsoleApp43\ConsoleApp43\bin\Debug\ConsoleApp43.pdb
+C:\MSstudy\MSStudy\ConsoleApp43\ConsoleApp43\obj\Debug\ConsoleApp43.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\ConsoleApp43\ConsoleApp43\obj\Debug\ConsoleApp43.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\ConsoleApp43\ConsoleApp43\obj\Debug\ConsoleApp43.exe
+C:\MSstudy\MSStudy\ConsoleApp43\ConsoleApp43\obj\Debug\ConsoleApp43.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MSstudy\\MSStudy\\ConsoleApp42\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD9635E-A18A-4E7C-B167-E7EBB09D955F}|ConsoleApp42\\ConsoleApp42.csproj|c:\\msstudy\\msstudy\\consoleapp42\\consoleapp42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD9635E-A18A-4E7C-B167-E7EBB09D955F}|ConsoleApp42\\ConsoleApp42.csproj|solutionrelative:consoleapp42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD9635E-A18A-4E7C-B167-E7EBB09D955F}|ConsoleApp42\\ConsoleApp42.csproj|c:\\msstudy\\msstudy\\consoleapp42\\consoleapp42\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD9635E-A18A-4E7C-B167-E7EBB09D955F}|ConsoleApp42\\ConsoleApp42.csproj|solutionrelative:consoleapp42\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD9635E-A18A-4E7C-B167-E7EBB09D955F}|ConsoleApp42\\ConsoleApp42.csproj|c:\\msstudy\\msstudy\\consoleapp42\\consoleapp42\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD9635E-A18A-4E7C-B167-E7EBB09D955F}|ConsoleApp42\\ConsoleApp42.csproj|solutionrelative:consoleapp42\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD9635E-A18A-4E7C-B167-E7EBB09D955F}|ConsoleApp42\\ConsoleApp42.csproj|c:\\msstudy\\msstudy\\consoleapp42\\consoleapp42\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD9635E-A18A-4E7C-B167-E7EBB09D955F}|ConsoleApp42\\ConsoleApp42.csproj|solutionrelative:consoleapp42\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\ConsoleApp42\\ConsoleApp42\\Warrior.cs",
+              "RelativeDocumentMoniker": "ConsoleApp42\\Warrior.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\ConsoleApp42\\ConsoleApp42\\Warrior.cs",
+              "RelativeToolTip": "ConsoleApp42\\Warrior.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:42:16.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\ConsoleApp42\\ConsoleApp42\\Mage.cs",
+              "RelativeDocumentMoniker": "ConsoleApp42\\Mage.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\ConsoleApp42\\ConsoleApp42\\Mage.cs",
+              "RelativeToolTip": "ConsoleApp42\\Mage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:34:28.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\ConsoleApp42\\ConsoleApp42\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp42\\GameCharacter.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\ConsoleApp42\\ConsoleApp42\\GameCharacter.cs",
+              "RelativeToolTip": "ConsoleApp42\\GameCharacter.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:25:22.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\ConsoleApp42\\ConsoleApp42\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp42\\Program.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\ConsoleApp42\\ConsoleApp42\\Program.cs",
+              "RelativeToolTip": "ConsoleApp42\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:17:02.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

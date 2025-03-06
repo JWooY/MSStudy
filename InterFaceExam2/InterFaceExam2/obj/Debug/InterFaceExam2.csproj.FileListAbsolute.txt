@@ -1,0 +1,7 @@
+C:\MSstudy\MSStudy\InterFaceExam2\InterFaceExam2\bin\Debug\InterFaceExam2.exe.config
+C:\MSstudy\MSStudy\InterFaceExam2\InterFaceExam2\bin\Debug\InterFaceExam2.exe
+C:\MSstudy\MSStudy\InterFaceExam2\InterFaceExam2\bin\Debug\InterFaceExam2.pdb
+C:\MSstudy\MSStudy\InterFaceExam2\InterFaceExam2\obj\Debug\InterFaceExam2.csproj.AssemblyReference.cache
+C:\MSstudy\MSStudy\InterFaceExam2\InterFaceExam2\obj\Debug\InterFaceExam2.csproj.CoreCompileInputs.cache
+C:\MSstudy\MSStudy\InterFaceExam2\InterFaceExam2\obj\Debug\InterFaceExam2.exe
+C:\MSstudy\MSStudy\InterFaceExam2\InterFaceExam2\obj\Debug\InterFaceExam2.pdb

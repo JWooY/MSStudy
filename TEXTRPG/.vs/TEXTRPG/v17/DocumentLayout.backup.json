@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MSstudy\\MSStudy\\TEXTRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA9281-AF62-4DEC-9F52-DB3AA786ED94}|TEXTRPG\\TEXTRPG.csproj|c:\\msstudy\\msstudy\\textrpg\\textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA9281-AF62-4DEC-9F52-DB3AA786ED94}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA9281-AF62-4DEC-9F52-DB3AA786ED94}|TEXTRPG\\TEXTRPG.csproj|C:\\MSstudy\\MSStudy\\TEXTRPG\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA9281-AF62-4DEC-9F52-DB3AA786ED94}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA9281-AF62-4DEC-9F52-DB3AA786ED94}|TEXTRPG\\TEXTRPG.csproj|C:\\MSstudy\\MSStudy\\TEXTRPG\\textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA9281-AF62-4DEC-9F52-DB3AA786ED94}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA9281-AF62-4DEC-9F52-DB3AA786ED94}|TEXTRPG\\TEXTRPG.csproj|C:\\MSstudy\\MSStudy\\TEXTRPG\\textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA9281-AF62-4DEC-9F52-DB3AA786ED94}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA9281-AF62-4DEC-9F52-DB3AA786ED94}|TEXTRPG\\TEXTRPG.csproj|C:\\MSstudy\\MSStudy\\TEXTRPG\\textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA9281-AF62-4DEC-9F52-DB3AA786ED94}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA9281-AF62-4DEC-9F52-DB3AA786ED94}|TEXTRPG\\TEXTRPG.csproj|C:\\MSstudy\\MSStudy\\TEXTRPG\\textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA9281-AF62-4DEC-9F52-DB3AA786ED94}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\TEXTRPG\\TEXTRPG\\Monster.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Monster.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\TEXTRPG\\TEXTRPG\\Monster.cs",
+              "RelativeToolTip": "TEXTRPG\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:06:04.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\TEXTRPG\\TEXTRPG\\Player.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Player.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\TEXTRPG\\TEXTRPG\\Player.cs",
+              "RelativeToolTip": "TEXTRPG\\Player.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:13:04.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\TEXTRPG\\TEXTRPG\\MainGame.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\MainGame.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\TEXTRPG\\TEXTRPG\\MainGame.cs",
+              "RelativeToolTip": "TEXTRPG\\MainGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:32:30.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\TEXTRPG\\TEXTRPG\\Program.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Program.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\TEXTRPG\\TEXTRPG\\Program.cs",
+              "RelativeToolTip": "TEXTRPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:05:30.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\TEXTRPG\\TEXTRPG\\Field.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Field.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\TEXTRPG\\TEXTRPG\\Field.cs",
+              "RelativeToolTip": "TEXTRPG\\Field.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAswBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:03:11.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\TEXTRPG\\TEXTRPG\\INFO.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\INFO.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\TEXTRPG\\TEXTRPG\\INFO.cs",
+              "RelativeToolTip": "TEXTRPG\\INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:10:58.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

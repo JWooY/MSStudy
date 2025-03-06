@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MSstudy\\MSStudy\\InterFaceExam2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61088FC9-84BB-414E-A405-7E3EEBF94E73}|InterFaceExam2\\InterFaceExam2.csproj|c:\\msstudy\\msstudy\\interfaceexam2\\interfaceexam2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61088FC9-84BB-414E-A405-7E3EEBF94E73}|InterFaceExam2\\InterFaceExam2.csproj|solutionrelative:interfaceexam2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MSstudy\\MSStudy\\InterFaceExam2\\InterFaceExam2\\Program.cs",
+              "RelativeDocumentMoniker": "InterFaceExam2\\Program.cs",
+              "ToolTip": "C:\\MSstudy\\MSStudy\\InterFaceExam2\\InterFaceExam2\\Program.cs",
+              "RelativeToolTip": "InterFaceExam2\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:29:11.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
